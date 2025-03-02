@@ -34,7 +34,7 @@
   private static final String USER = "root";  // Update if needed
   private static final String PASSWORD = "yourpassword";  // Set your password
 
-  ## Compile and Run the Program  
+## Compile and Run the Program 
 - Open the project in any **Java IDE** (**Eclipse, IntelliJ, or VS Code**).  
 - Compile and run the `Health.java` file.  
 
