@@ -8,7 +8,7 @@
 - Eliminates the need for needle-based blood tests, offering a painless, real-time health tracking solution.  
 - An **AI chatbot** provides health tips, diet suggestions, and answers queries, making health monitoring effortless.  
 
-## Technologies Used  
+## Tech stack and tools used 
 - **Java** - Programming language.  
 - **Swing (GUI)** - For creating buttons, text fields, and windows.  
 - **MySQL (Database)** - Stores health data.  
