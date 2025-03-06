@@ -63,7 +63,7 @@
 3. Predicted values are stored in a database.  
 4. Users log in with their username and password to monitor their health history over time.  
 5. The system allows comparison of past and present health records for better monitoring.  
-6. The NLP-driven chatbot provides health tips based on predicted values and responds to user queries regarding diet, exercise, and overall health.  
+6. The NLP-driven chatbot provides health tips based on predicted values and responds to user queries regarding glucose,hemoglobin,cholesterol and overall health.  
 
 ## Future Enhancements  
 - The system currently uses **Natural Language Processing (NLP)** to enable the chatbot to offer health-related recommendations.  
