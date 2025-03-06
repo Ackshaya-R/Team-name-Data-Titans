@@ -13,12 +13,13 @@
 - **Swing (GUI)** - For creating buttons, text fields, and windows.  
 - **MySQL (Database)** - Stores health data.  
 - **JDBC (Database Connection)** - Bridges Java and MySQL.  
-- **NLP Simple Chatbot** - Uses keywords like _"exercise"_ and _"diet"_ to provide health advice.  
+- **Python (NLP Based Chatbot)** - Respond to any glucose,cholestrol and hemoglobin realted questions and also other health related questions.  
 
 ## Setup the Environment  
 - Install Java (JDK 8 or above).  
 - Install MySQLand set up the database.  
-- Ensure you have the JDBC Driver for MySQL.  
+- Ensure you have the JDBC Driver for MySQL.
+- Ensure you have python3 
 
 ## Configure the Database  
 - Open MySQL and create a database:  
